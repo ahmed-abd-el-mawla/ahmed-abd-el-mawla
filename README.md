@@ -72,7 +72,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ![Zephyr](https://img.shields.io/badge/Zephyr-Essential-0066ff?style=flat-square)
 
-<a href="https://github.com/YOUR_USERNAME/ecommerce-manual-testing">
+<a href="https://github.com/ahmed-abd-el-mawla/E-Commerce-Website---Figma-Based-UI-Design-">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -90,7 +90,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello)
 
-<a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
+<a href="https://github.com/ahmed-abd-el-mawla/Hotel-Booking-System---Relational-Database-">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -109,7 +109,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-<a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
+<a href="https://github.com/ahmed-abd-el-mawla/E-Commerce-REST-API">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
