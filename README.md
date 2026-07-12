@@ -63,7 +63,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 <td align="center">
 
-## 🛒 E-Commerce Website
+## 🛒 E-Commerce Website - [Figma-Based UI Design]  
 
 <br><br>
 
@@ -81,7 +81,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 <td align="center">
 
-## 🏨 BookingLite Database 
+## 🏨 Hotel Booking System 
 
 <br><br>
 
