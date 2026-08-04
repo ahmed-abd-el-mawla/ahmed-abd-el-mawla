@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Ahmed Abd El-Mawla
 
-### Manual Software Tester
+### Software Tester
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Manual+Software+Tester;Manual+Testing+%7C+API+Testing+%7C+SQL;Jira+%7C+Zephyr+%7C+Postman;Always+Learning+and+Improving+Quality" alt="Typing SVG" />
 
@@ -48,82 +48,5 @@ real-world testing workflows.
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello"/>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets"/>
 </p>
-
----
-
-# 🚀 Featured QA Projects
-
-<p align="center">
-These repositories showcase my hands-on experience in Manual Testing, Database Testing, and API Testing using real-world testing workflows and professional QA documentation.
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-## 🛒 E-Commerce Website - [Figma-Based UI Design]  
-
-<br><br>
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=flat-square)
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-
-![Zephyr](https://img.shields.io/badge/Zephyr-Essential-0066ff?style=flat-square)
-
-<a href="https://github.com/ahmed-abd-el-mawla/E-Commerce-Website---Figma-Based-UI-Design-">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td align="center">
-
-## 🏨 Hotel Booking System 
-
-<br><br>
-
-![Database Testing](https://img.shields.io/badge/Database_Testing-198754?style=flat-square)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello)
-
-<a href="https://github.com/ahmed-abd-el-mawla/Hotel-Booking-System---Relational-Database-">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td align="center">
-
-## 📡 E-Commerce REST API
-
-
-<br><br>
-
-![API Testing](https://img.shields.io/badge/API-Testing-blue?style=for-the-badge)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-<a href="https://github.com/ahmed-abd-el-mawla/E-Commerce-REST-API">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0052CC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abd-el-mawla-a2866123a/)
-[![Gmail](https://img.shields.io/badge/Gmail-DC3545?style=for-the-badge&logo=gmail)](mailto:ahmed.abd.elmawla200@gmail.com)
 
 ---
