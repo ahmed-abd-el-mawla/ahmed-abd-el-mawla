@@ -3,15 +3,17 @@
 
 # 👋 Hi, I'm Ahmed Abd El-Mawla
 
-### Software Tester
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Manual+Software+Tester;Manual+Testing+%7C+API+Testing+%7C+SQL;Jira+%7C+Zephyr+%7C+Postman;Always+Learning+and+Improving+Quality" alt="Typing SVG" />
+### Software QA & Test Engineer
 
 <br>
 
 <p>
-I'm a <b>Software Tester</b> passionate about ensuring software quality through
-<b>Manual Testing, API Testing, Database Validation, and Bug Reporting.</b>
+
+Software <b>Test Engineer</b> with hands-on experience in Manual Testing of web and mobile applications,
+including test case design and execution, functional testing, exploratory testing, and bug identification,
+documentation, and tracking.
+Familiar with QA methodologies, SQL database testing, API testing using Postman, 
+and Test Automation.
 
 I enjoy transforming UI designs and project requirements into comprehensive test cases and test scenarios,
 finding defects, and building well-documented QA projects that demonstrate
